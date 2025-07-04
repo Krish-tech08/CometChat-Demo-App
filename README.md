@@ -7,7 +7,7 @@ Built as part of the CometChat internship assignment.
 
 ## ✨ Features
 - Integrated CometChat UI Kit (v5.0.2)
-- User list and one-on-one chat
+- Tab-Based Messaging UI (All-in-One)
 - Group chat UI (⚠️ Note: Group chat not opening – issue still unresolved)
 - Clean theme support
 
